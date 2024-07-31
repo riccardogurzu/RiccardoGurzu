@@ -6,7 +6,7 @@ Hello! I'm Riccardo Andrea Gurzu, a passionate data scientist based in Lisbon, P
 
 Currently, I am currently finishing an MSc in Statistics and Information Management at NOVA IMS, specializing in Risk Analysis and Management. My academic journey has equipped me with a robust understanding of machine learning, deep learning, and financial analytics. My thesis, "Pairs Trading Strategy with a Machine Learning Approach," exemplifies my ability to apply advanced analytics to solve complex problems, choosing the financial field as I'm currently working in an Investment Bank.
 
-But my passions extend beyond the realm of data. I am pianist, finding solace and expression in music. Analog photography allows me to capture the world through a unique eye, blending art with precision. These creative pursuits fuel my analytical mind, fostering a balance between logic and creativity.
+But my passions extend beyond the realm of data. I'm passionate about analog photography, which allows me to capture the world through a unique eye, blending art with precision. I also play piano, finding solace and expression in music. These creative pursuits fuel my analytical mind, fostering a balance between logic and creativity. 
 
 Feel free to explore my projects and reach out!
 
