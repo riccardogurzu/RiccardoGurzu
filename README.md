@@ -22,7 +22,7 @@ An academic project that uses Convolutional Neural Networks (CNN) developed with
 ### [Market Sentiment Analysis Using NLP](https://github.com/riccardogurzu/stock-market-nlp-prediction)
 This project involves developing an NLP model to predict market sentiment based on tweets. The model classifies tweets into Bearish, Bullish, or Neutral categories using machine learning techniques and extensive data preprocessing.
 
-### [Credit Scoring](https://github.com/riccardogurzu/credit-scoring-ml-models/blob/main/README.md)
+### [Credit Scoring](https://github.com/riccardogurzu/credit-scoring-ml-models)
 A project focused on building and evaluating machine learning models (Logistic Regression, Random Forest, Deep Neural Network) to predict the probability of default in credit scoring, using statistical analysis and feature engineering on a credit dataset.
 
 ### [Deep Learning for Bankruptcy Prediction](https://github.com/riccardogurzu/comp_bankruptcy)
