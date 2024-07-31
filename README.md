@@ -6,8 +6,24 @@ I am a Senior Data Analyst & Data Scientist passionate about uncovering valuable
 ## Projects
 ### [Pairs Trading Strategy with a Machine Learning Approach](https://github.com/riccardogurzu/pair-trading-strategy)
 Short description of the project.
-### [Melanoma Tumor Detector](https://github.com/riccardogurzu/melanoma-tumor-detection)
-hort description of the project.
+
+### [Deep Learning for Melanoma Tumor Detection](https://github.com/riccardogurzu/melanoma-tumor-detection)
+Short description of the project.
+
+### [Market Sentiment Analysis Using NLP](https://github.com/riccardogurzu/stock-market-nlp-prediction)
+Short description of the project.
+
+### [Credit Scoring](https://github.com/riccardogurzu/credit-scoring-ml-models/blob/main/README.md)
+Short description of the project.
+
+### [Deep Learning for Bankruptcy Prediction](https://github.com/riccardogurzu/comp_bankruptcy)
+Short description of the project.
+
+### [Algorithmic Trading & Market Microstructure Project](https://github.com/riccardogurzu/algo-trading)
+Short description of the project.
+
+###[Financial Derivatives Project](https://github.com/riccardogurzu/financial-project)
+Short description of the project.
 
 ## Skills
 - Programming Languages: Python, JavaScript, ...
