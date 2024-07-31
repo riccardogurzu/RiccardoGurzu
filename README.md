@@ -31,7 +31,7 @@ This project aims to improve bankruptcy prediction using deep learning technique
 ### [Algorithmic Trading & Market Microstructure Project](https://github.com/riccardogurzu/algo-trading)
 A project centered on developing and analyzing a trend-following trading strategy based on exponential moving averages (EMAs). It involves backtesting the strategy on historical data and evaluating its performance using various financial metrics.
 
-### [Financial Derivatives Project](https://github.com/riccardogurzu/financial-project)
+### [Financial Derivatives Project](https://github.com/riccardogurzu/financial-project-swap)
 This project focuses on analyzing and hedging a floating rate loan agreement using a 15-year swap contract. It includes estimating loan cash flows, swap pricing, and evaluating alternative hedging strategies to manage interest rate risk.
 
 
