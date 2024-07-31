@@ -1,5 +1,3 @@
-# Hi, I'm Riccardo 👋
-
 ## About Me
 
 Hello! I'm Riccardo Andrea Gurzu, a passionate data scientist based in Lisbon, Portugal. With a strong academic foundation and hands-on experience, I am dedicated to harnessing the power of data to uncover insights and drive innovation.
