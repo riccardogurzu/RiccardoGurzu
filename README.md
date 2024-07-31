@@ -2,8 +2,6 @@
 
 ## About Me
 
-## About Me
-
 Hello! I'm Riccardo Andrea Gurzu, a passionate data scientist based in Lisbon, Portugal. With a strong academic foundation and hands-on experience, I am dedicated to harnessing the power of data to uncover insights and drive innovation.
 
 Currently, I am pursuing an MSc in Statistics and Information Management at NOVA IMS, specializing in Risk Analysis and Management. My academic journey has equipped me with a robust understanding of machine learning, deep learning, and financial analytics. My thesis, "Pairs Trading Strategy with a Machine Learning Approach," exemplifies my ability to apply advanced analytics to solve complex problems, choosing the financial field as I'm currently working in an Investment Bank.
