@@ -22,7 +22,7 @@ Short description of the project.
 ### [Algorithmic Trading & Market Microstructure Project](https://github.com/riccardogurzu/algo-trading)
 Short description of the project.
 
-###[Financial Derivatives Project](https://github.com/riccardogurzu/financial-project)
+### [Financial Derivatives Project](https://github.com/riccardogurzu/financial-project)
 Short description of the project.
 
 ## Skills
