@@ -14,7 +14,7 @@ Feel free to explore my projects and reach out!
 ## Projects
 
 ### [Pairs Trading Strategy with a Machine Learning Approach](https://github.com/riccardogurzu/pair-trading-strategy)
-This project explores enhancing pairs trading strategies using traditional statistical models and Long-Short Term Memory (LSTM) neural networks. It involves data collection, cointegration analysis for pairs selection, model training, and backtesting to evaluate performance.
+This study explores enhancing pairs trading strategies using traditional statistical models and Long-Short Term Memory (LSTM) neural networks. It involves data collection, cointegration analysis for pairs selection, model training, and backtesting to evaluate performance.
 
 ### [Deep Learning for Melanoma Tumor Detection](https://github.com/riccardogurzu/melanoma-tumor-detection)
 An academic project that uses Convolutional Neural Networks (CNN) developed with the Keras framework to accurately detect and classify melanoma tumors from a dataset of dermoscopic images, aiming to assist in early detection and diagnosis.
