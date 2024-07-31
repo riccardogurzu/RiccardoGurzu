@@ -1,7 +1,17 @@
 # Hi, I'm Riccardo 👋
 
 ## About Me
-I am a Senior Data Analyst & Data Scientist passionate about uncovering valuable insights from complex datasets. My professional journey has been marked by years of solid experience working on a diverse range of projects, including marketing, operations, sales, quality assurance, data & reporting, portfolio management, and many other areas. These projects have involved direct and indirect contributions to various aspects of data-driven decision-making.
+
+## About Me
+
+Hello! I'm Riccardo Andrea Gurzu, a passionate data scientist based in Lisbon, Portugal. With a strong academic foundation and hands-on experience, I am dedicated to harnessing the power of data to uncover insights and drive innovation.
+
+Currently, I am pursuing an MSc in Statistics and Information Management at NOVA IMS, specializing in Risk Analysis and Management. My academic journey has equipped me with a robust understanding of machine learning, deep learning, and financial analytics. My thesis, "Pairs Trading Strategy with a Machine Learning Approach," exemplifies my ability to apply advanced analytics to solve complex problems, choosing the financial field as I'm currently working in an Investment Bank.
+
+But my passions extend beyond the realm of data. I am pianist, finding solace and expression in music. Analog photography allows me to capture the world through a unique eye, blending art with precision. These creative pursuits fuel my analytical mind, fostering a balance between logic and creativity.
+
+Feel free to explore my projects and reach out!
+
 
 ## Projects
 
