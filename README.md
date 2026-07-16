@@ -33,5 +33,5 @@ This project focuses on analyzing and hedging a floating rate loan agreement usi
 
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/riccardo-g-a38290224/)
+- [LinkedIn](https://www.linkedin.com/in/riccardogurzu/)
 - [Email](mailto:riccardogurzu@yahoo.it)
